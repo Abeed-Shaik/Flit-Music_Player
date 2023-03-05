@@ -7,5 +7,6 @@ Features:
 3. Music Time Stopper
 4. App Theme Manager etc..
 This Offline MP3 Player has a built-in equaliser that takes your music listening experience to a whole new level. This app can organise and play only the local audio files which are stored on the internal storage or SD card. This app can not stream/download/search new music online.
-It's available on Google PlayStore. 
+It's available on Google PlayStore.
+
 Try it Once : https://play.google.com/store/apps/details?id=com.abeed.flit
